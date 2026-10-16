@@ -1,6 +1,6 @@
 package lab2.s08_access.other;
 
-import lab2.demo.s08_access.Student;
+import lab2.s08_access.Student;
 
 /**
  * Alt pachet → rămâne vizibil doar ce e public.
