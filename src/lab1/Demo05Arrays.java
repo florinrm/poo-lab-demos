@@ -1,4 +1,4 @@
-package lab1.demo;
+package lab1;
 
 /**
  * Demo 5 - Array-uri si matrice.

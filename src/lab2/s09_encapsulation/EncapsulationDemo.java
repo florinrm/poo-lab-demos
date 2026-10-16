@@ -1,4 +1,4 @@
-package lab2.demo.s09_encapsulation;
+package lab2.s09_encapsulation;
 
 /**
  * Slide 9: încapsulare — câmp privat + getter/setter cu validare.

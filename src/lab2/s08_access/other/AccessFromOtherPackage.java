@@ -1,4 +1,4 @@
-package lab2.demo.s08_access.other;
+package lab2.s08_access.other;
 
 import lab2.demo.s08_access.Student;
 

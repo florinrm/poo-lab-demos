@@ -1,4 +1,4 @@
-package lab2.demo.s03_objects;
+package lab2.s03_objects;
 
 /**
  * Slide 3-4: Clasă vs. obiect, instanțiere, valori implicite, NullPointerException.

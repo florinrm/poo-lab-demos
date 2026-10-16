@@ -1,4 +1,4 @@
-package lab2.demo.s12_gc_arrays;
+package lab2.s12_gc_arrays;
 
 /**
  * Slide 12: array-uri de obiecte și eligibilitatea pentru Garbage Collection.

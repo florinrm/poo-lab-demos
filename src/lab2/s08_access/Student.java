@@ -1,4 +1,4 @@
-package lab2.demo.s08_access;
+package lab2.s08_access;
 
 /**
  * Slide 8: specificatori de acces. Vezi și other/AccessFromOtherPackage.java.

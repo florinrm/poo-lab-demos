@@ -1,4 +1,4 @@
-package lab2.demo.s06_constructors;
+package lab2.s06_constructors;
 
 /**
  * Slide 6: constructor implicit, supraîncărcare, this(...), copy constructor.

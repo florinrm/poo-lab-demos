@@ -1,4 +1,4 @@
-package lab2.demo.s11_params;
+package lab2.s11_params;
 
 /**
  * Slide 11: Java este pass-by-value. Pentru obiecte, valoarea copiată este referința.

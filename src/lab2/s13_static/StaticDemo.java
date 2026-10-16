@@ -1,4 +1,4 @@
-package lab2.demo.s13_static;
+package lab2.s13_static;
 
 /**
  * Slide 13: membri statici, constante, contor de instanțe, ordinea blocurilor statice.

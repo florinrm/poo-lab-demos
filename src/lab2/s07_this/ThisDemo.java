@@ -1,4 +1,4 @@
-package lab2.demo.s07_this;
+package lab2.s07_this;
 
 /**
  * Slide 7: cele trei folosiri ale lui this.

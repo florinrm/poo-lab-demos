@@ -1,4 +1,4 @@
-package lab2.demo.s05_methods;
+package lab2.s05_methods;
 
 /**
  * Slide 5: variabile locale, shadowing, supraîncărcare.

@@ -1,4 +1,4 @@
-package lab2.demo.s10_memory;
+package lab2.s10_memory;
 
 /**
  * Slide 10: Stack vs. Heap.

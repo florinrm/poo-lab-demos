@@ -1,4 +1,4 @@
-package lab2.demo.s08_access;
+package lab2.s08_access;
 
 /**
  * Același pachet ca Student → default și protected sunt vizibile, private nu.
