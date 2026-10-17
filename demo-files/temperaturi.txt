@@ -1,0 +1,4 @@
+# oras temperatura
+Cluj 12.5
+Constanta 18.0
+Brasov -2.25
